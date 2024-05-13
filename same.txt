@@ -1,0 +1,24 @@
+Doctor, Dr. Adomas
+Doctor, Dr. Tomas
+Nurse, Lidia
+Nurse, Sarah
+Patient,Dovilas,Male,45,Common cold
+Patient,Kristijonas,Male,19,Seasonal allergies
+Patient,Vladimiras,Male,25,Conjunctivitis
+Patient,Kazimieras,Male,31,Acne vulgaris
+Patient,Ignas,Male,46,Rosacea
+Patient,Cecilija,Female,20,Acid reflux
+Patient,Magdalena,Female,65,Sunburn
+Patient,Karolina,Female,79,Dandruff
+Patient,Audra,Female,29,Athlete's foot
+Patient,Vaida,Female,58,Acid reflux
+Patient,Matas,Male,37,Hemorrhoids
+Patient,Antanas,Male,18,Earwax buildup
+Patient,Romualdas,Male,22,Migraine
+Patient,Nojus,Male,43,Insomnia
+Patient,Vladas,Male,28,Seasonal affective disorder
+Patient,Indre,Female,47,Tennis elbow
+Patient,Valentina,Female,23,Carpal tunnel syndrome
+Patient,Frida,Female,32,Vertigo
+Patient,Julija,Female,65,Tinnitus
+Patient,Lidija,Female,87,Asthma
